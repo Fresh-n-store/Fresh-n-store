@@ -1,0 +1,43 @@
+
+
+body {
+    text-align: center;
+    background-color: rgb(16, 32, 11);
+}
+
+#logo {
+    margin: 8px;
+    font-family: 'New Rocker', cursive;
+    font-size: xx-large;
+    color: rgb(233, 154, 79);
+}
+
+.Kosten {
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(11, 104, 27);
+    font-size: medium;
+}
+
+.description {
+    color: rgb(250, 220, 194);
+    font-family: 'Zen Dots', cursive;
+}
+
+.produkt img {
+    width: 80%;
+    max-width: 280px;
+}
+
+.Name {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(250, 220, 194);
+}
+
+#footer {
+    color: rgb(224, 211, 211);
+}
+
+.Lieferzeit {
+    font-family: 'Staatliches', cursive;
+    color: rgb(216, 230, 23);
+}
